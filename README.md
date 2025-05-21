@@ -2,7 +2,7 @@
 
 This project explores patterns of customer churn and revenue loss using interactive visualizations in Power BI. The dashboard was built using synthetic telecom data and simulates how businesses can monitor churn metrics, identify risk segments, and minimize revenue leakage.
 
-![Dashboard Preview](https://postimg.cc/hzWDB413)
+[Dashboard Preview](https://postimg.cc/hzWDB413)
 
 ---
 
